@@ -1,0 +1,20 @@
+# Index created by AutoSplit for blib\lib\ASP.pm
+#    (file acts as timestamp)
+package ASP;
+sub Print ;
+sub DebugPrint ;
+sub HTMLPrint ;
+sub die ;
+sub exit ;
+sub escape ;
+sub unescape ;
+sub escapeHTML ;
+sub unescapeHTML ;
+sub param ;
+sub param_count ;
+sub AddDeathHook ;
+sub BinaryWrite ;
+sub expire_calc ;
+sub date ;
+sub SetCookie ;
+1;
